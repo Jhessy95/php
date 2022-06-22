@@ -1,5 +1,7 @@
 <?php
 
-echo "Hello Word!";
+echo "Olá mundo!";
+
+echo "Teste Hcode";
 
 ?>
