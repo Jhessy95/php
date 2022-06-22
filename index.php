@@ -1,8 +1,8 @@
 <?php
 
-echo "Olá mundo!";
+echo "Olá mundo! 123";
 
-echo "Teste Hcode";
+echo "Teste Hcode!";
 
 echo "teste do curso";
 
